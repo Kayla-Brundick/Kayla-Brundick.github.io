@@ -10,9 +10,9 @@ My proposal introduced the idea of creating a mapping project based on Stephanie
 Specifically, I will compare the thoughts of both Bella and Edward that describe their journey throughout their complicated romance story on a map that will let Twilight fans trace the story sequentially on a map.
 In order to do this, I would need to use a mapping site in order to create the project, such as story maps in order to track the story approprietly. 
 
-![alt](https://kayla-brundick.github.io/Kayla-Brundick1/images/Story.png) 
+![This image shows a story mapping site that you can use in order to create a story through the use of maps](https://kayla-brundick.github.io/Kayla-Brundick1/images/Story.png) 
 
-![alt](https://kayla-brundick.github.io/Kayla-Brundick1/images/Map.png)
+![This image shows an example of a map that you can trace a story from a text through chronilogically](https://kayla-brundick.github.io/Kayla-Brundick1/images/Map.png)
 
 Other mapping projects based on novels are generally from one perspective and narrated by the main character; because I am creating a mapping project based on the perspectives of two main characters, this is what will set my project apart from others that have been created. 
 After discussing my project with my professor, I was excited that my proposal was accepted, so I could move forward in the process. 
