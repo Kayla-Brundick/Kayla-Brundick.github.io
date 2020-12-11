@@ -23,7 +23,7 @@ At first, I was not comfortable in my ability to create an appendix since I have
 After going to office hours, and receiving clarification on what an appendix was, I have decided to draw a visual representation of what I image my grant to look like within the StoryMaps Software. 
 Below is a picture of the visual representation of what I want to develop within my mapping software. 
 
-
+![This image shows an example of what I want to create on the StoryMaps Software to develope my project further.](https://kayla-brundick.github.io/Kayla-Brundick1/images/Appendix.jpg)
 
 In the picture above, I have included a map of the time of Forks, Washington. 
 I have also included a closer picture of the map that focused on Forks High School since that is where the story of Bella and Edward began. 
